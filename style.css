@@ -1,0 +1,54 @@
+body {
+             background-color: rgb(253, 251, 251);
+}
+
+.nav {
+                position: relative;
+                top: 0px;
+
+}
+
+.foto_box {
+                max-width: 30%;
+                border-radius: 100%;
+                border: 5px solid green;
+                padding: 5px;
+                margin: 2px;
+}
+
+.texto_editado {
+                font-family: sans-serif;
+                font-size: medium;
+                color: green;
+                line-height: 1px;
+}
+
+.lado-esquerdo {
+                float: left;
+                width: 30%;
+}
+
+.lado-direito {
+                float: right;
+                width: 30%;
+                /* position: absolute;
+                top: 630px;
+                left: 400px; */
+}
+
+.tabela {
+                width: 300px;
+                border: 1px solid black;
+                position: absolute;
+                top: 920px;
+}
+
+.tabela_itens {
+                border: 1px solid black;
+}
+
+
+.final {
+                position: absolute;
+                top: 1200px;
+}
